@@ -47,7 +47,7 @@ To use the code in this repository, simply clone the repository and run the Jupy
 
 ## Credits
 
-This code was written by author of the following paper:
+This code was written by authors of the following paper:
 
 - [MB-CNN: A Multi-Branch
 Convolutional Neural Network for
